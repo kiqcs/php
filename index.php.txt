@@ -1,6 +1,0 @@
-<?php
-
-	echo "HUaaaiii credo";
-	echo "Vaitodomundosefudeeeeerrr"
-
-?>
